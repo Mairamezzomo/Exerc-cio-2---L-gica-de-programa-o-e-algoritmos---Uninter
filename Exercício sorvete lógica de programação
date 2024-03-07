@@ -1,5 +1,3 @@
-ru = 4611014
-nome = 'Maira Mezzomo Wagnitz'
 conta = 0
 print ('Bem vindo a loja de sorvetes e açaí')
 print('****************Cardápio****************')
